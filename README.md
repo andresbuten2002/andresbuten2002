@@ -1,15 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Andres</h1>
-<h3 align="center">A passionate frontend developer from Rio Cuarto, Argentina</h3>
+<h3 align="center">A passionate Telecommunications Engineering and DevOps Engineering from Rio Cuarto, Argentina</h3>
 
-- 🔭 I’m currently working on **university projects**
-
-- 🌱 I’m currently learning **GitHub**
-
-- 🤝 I’m looking for help with **Aplicaciones TCP/IP**
-
-- 📫 How to reach me **butenandres@gmail.com**
-
-- ⚡ Fun fact **Me gusta hacer deporte**
+- 🔭 I’m currently working on MavinAI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
